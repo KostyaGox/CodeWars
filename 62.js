@@ -1,0 +1,1 @@
+const squareSum = numbers => numbers.reduce((a, x) => a + (x * x), 0);
