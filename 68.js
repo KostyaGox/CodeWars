@@ -1,0 +1,1 @@
+const flattenAndSort = a => Array.prototype.concat(...a).sort((x, y) => x - y);
